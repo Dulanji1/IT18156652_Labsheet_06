@@ -25,7 +25,8 @@ public class MainActivity extends AppCompatActivity {
     private void initImageBitmaps(){
         Log.d(TAG, "initImageBitmaps: started");
         mImageUrls.add("https://lp-cms-production.imgix.net/201906/b4fbc706dab2a70a96588309ed268a1a-sri-lanka.jpeg");
-
+        mNames.add("Seegiriya");
+        mImageUrls.add("https://img.traveltriangle.com/blog/wp-content/tr:w-700,h400/uploads/2015/06/Demodara-Nine-Arch-Bridge.jpg");
         mNames.add("Ella");
         mImageUrls.add("https://img.traveltriangle.com/blog/wp-content/tr:w-700,h400/uploads/2015/06/Train-ride-from-Kandy-to-Nuwara-Eliya.jpg");
         mNames.add("Nuwara Eliya");
